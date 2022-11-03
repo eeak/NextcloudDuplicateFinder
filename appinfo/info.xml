@@ -27,7 +27,7 @@
   <bugs>https://github.com/PaulLereverend/NextcloudDuplicateFinder</bugs>
   <screenshot>https://raw.githubusercontent.com/PaulLereverend/NextcloudDuplicateFinder/master/img/preview.png</screenshot>
   <dependencies>
-    <nextcloud min-version="20" max-version="24"/>
+    <nextcloud min-version="20" max-version="25"/>
   </dependencies>
   <background-jobs>
     <job>OCA\DuplicateFinder\BackgroundJob\FindDuplicates</job>
